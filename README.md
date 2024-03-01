@@ -17,7 +17,7 @@ Flow de Código: Rimando Linhas e Algoritmos" é um projeto inovador que une dua
 
 Através de workshops, sessões de colaboração e performances ao vivo, os participantes terão a oportunidade de aprimorar suas habilidades tanto na programação quanto no rap, além de descobrir novas formas de expressão artística. O projeto visa promover a diversidade, a inclusão e a inovação, incentivando a troca de conhecimento e a criação de novas conexões entre duas comunidades aparentemente distintas, mas surpreendentemente complementares.
 
-<img src="[https://exemplo.com/logo.png](https://th.bing.com/th/id/OIG4.vMQnv9h49yYwRvkxEBt2?w=1024&h=1024&rs=1&pid=ImgDetMain)"> <br/>
+[Imagem](https://exemplo.com/logo.png](https://th.bing.com/th/id/OIG4.vMQnv9h49yYwRvkxEBt2?w=1024&h=1024&rs=1&pid=ImgDetMain))
 
 
 
