@@ -17,9 +17,9 @@ Flow de Código: Rimando Linhas e Algoritmos" é um projeto inovador que une dua
 
 Através de workshops, sessões de colaboração e performances ao vivo, os participantes terão a oportunidade de aprimorar suas habilidades tanto na programação quanto no rap, além de descobrir novas formas de expressão artística. O projeto visa promover a diversidade, a inclusão e a inovação, incentivando a troca de conhecimento e a criação de novas conexões entre duas comunidades aparentemente distintas, mas surpreendentemente complementares.
 
-<img src="https://th.bing.com/th/id/OIG4.vMQnv9h49yYwRvkxEBt2?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="Logo da Minha Empresa" width="300">
+<img src="https://th.bing.com/th/id/OIG4.vMQnv9h49yYwRvkxEBt2?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="Logo da Minha Empresa" width="500"> ![image](https://github.com/Rian-url/lab-natty-or-not/assets/101880797/5fc71839-7304-4a61-8bbf-bde359d1debb)
 
-![image](https://github.com/Rian-url/lab-natty-or-not/assets/101880797/5fc71839-7304-4a61-8bbf-bde359d1debb)
+
 
 
 ## 🤖 Tecnologias Utilizadas
